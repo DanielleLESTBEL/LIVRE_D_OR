@@ -1,0 +1,1 @@
+/* tous les champs de la BDD sauf "id" + conf° du Pswd */
