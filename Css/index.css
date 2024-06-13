@@ -1,0 +1,9 @@
+body{
+    background-image: url(../Assets/Pictures/Sequioa_grume.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: rgb(230, 245, 17);
+
+}
